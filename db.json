@@ -1,10 +1,6 @@
 {
   "courses": [
-    {
-      "id": 1,
-      "pic": "ds-cor3.jpg",
-      "title": "Data Science Mastery"
-    },
+  
     {
       "id": 2,
       "pic": "cor1.jpeg",
