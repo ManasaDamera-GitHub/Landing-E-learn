@@ -17,22 +17,22 @@
     },
     {
       "id": 4,
-      "pic": "python.jpg",
+      "pic": "https://c8.alamy.com/comp/2D9N00K/python-inscription-against-laptop-and-code-background-learn-python-programming-language-computer-courses-training-2D9N00K.jpg",
       "title": "Python for Beginners to Advanced"
     },
     {
       "id": 5,
-      "pic": "ai-course.jpg",
+      "pic": "https://tse1.mm.bing.net/th?id=OIP.eUUpZVsMF8yAHi6uW44f5gHaD-&pid=Api&P=0&h=180",
       "title": "Artificial Intelligence & Machine Learning"
     },
     {
       "id": 6,
-      "pic": "fullstack.jpg",
+      "pic": "https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png",
       "title": "Full-Stack Web Development with MERN"
     },
     {
       "id": 7,
-      "pic": "aptitude.jpg",
+      "pic": "https://allegiance-educare.in/storage/uploads/aptitude%20skill_IK9sc.webp",
       "title": "Aptitude & Logical Reasoning Mastery"
     }
   ]
