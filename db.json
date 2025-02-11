@@ -2,36 +2,31 @@
   "courses": [
     {
       "id": 1,
-      "pic": "ds-cor3.jpg",
-      "title": "Data Science Mastery"
-    },
-    {
-      "id": 2,
       "pic": "cor1.jpeg",
       "title": "HTML5 & CSS3 Modern Web Development"
     },
     {
-      "id": 3,
+      "id": 2,
       "pic": "cor2.jpg",
       "title": "JavaScript: The Complete Guide (Beginner + Advanced)"
     },
     {
-      "id": 4,
+      "id": 3,
       "pic": "https://c8.alamy.com/comp/2D9N00K/python-inscription-against-laptop-and-code-background-learn-python-programming-language-computer-courses-training-2D9N00K.jpg",
       "title": "Python for Beginners to Advanced"
     },
     {
-      "id": 5,
+      "id": 4,
       "pic": "https://tse1.mm.bing.net/th?id=OIP.eUUpZVsMF8yAHi6uW44f5gHaD-&pid=Api&P=0&h=180",
       "title": "Artificial Intelligence & Machine Learning"
     },
     {
-      "id": 6,
+      "id": 5,
       "pic": "https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png",
       "title": "Full-Stack Web Development with MERN"
     },
     {
-      "id": 7,
+      "id": 6,
       "pic": "https://allegiance-educare.in/storage/uploads/aptitude%20skill_IK9sc.webp",
       "title": "Aptitude & Logical Reasoning Mastery"
     }
